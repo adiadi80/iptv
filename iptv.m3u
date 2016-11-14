@@ -1,0 +1,318 @@
+#EXTM3U
+###########################################################################################
+
+#EXTINF:-1,ערוץ 10
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/86.m3u8
+
+#EXTINF:-1 ,ערוץ 2
+https://video01-lon.streamup.com/app/you8s-stream_aac/playlist.m3u8
+
+#EXTINF:-1 ,הערוץ הראשון
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/308.m3u8
+
+##### - מדע, טבע ודוקומנטרי - #####
+#EXTINF:-1 ,NAT Geo Wild
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/360.m3u8
+
+#EXTINF:-1 ,ערוץ ההיסטוריה
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/104.m3u8
+
+#EXTINF:-1 ,החיים הטובים
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/210.m3u8
+
+##### - גברים וספורט - #####
+
+#EXTINF:-1 ,ספורט 1 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/89.m3u8
+
+#EXTINF:-1 ,ספורט 5
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/90.m3u8
+
+#EXTINF:-1 ,ONE 1 
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/91.m3u8
+
+#EXTINF:-1, ספורט 2
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/116.m3u8
+
+#EXTINF:-1 ,ספורט 1
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/89.m3u8
+
+
+##### - אופנה ופנאי - #####
+
+#EXTINF:-1 ,ערוץ האופנה
+http://CDN12_eu.sababatv.com:1935/C44/smil:C44.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,ויוה
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/107.m3u8
+
+#EXTINF:-1 ,ויוה+
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/108.m3u8
+
+#EXTINF:-1 ,בית+
+http://CDN12_eu.sababatv.com:1935/C40/smil:C40.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,ערוץ 9
+http://CDN12_eu.sababatv.com:1935/C31/smil:C31.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,ערוץ 66
+http://CDN12_eu.sababatv.com:1935/C38/smil:C38.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,ערוץ מאיר
+http://CDN12_eu.sababatv.com:1935/C36/smil:C36.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,בית פלוס
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/105.m3u8
+
+#EXTINF:-1 ,ניקלודיאון
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/310.m3u8
+
+#EXTINF:-1 ,בובספוג ברצף
+http://82.80.192.14:1935/plph_Linear3Repeat/_definst_/smil:Linear10.smil/playlist.m3u8
+
+#EXTINF:-1 ,ערוץ הילדים
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/219.m3u8
+
+#EXTINF:-1 ,זום
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/101.m3u8
+
+#EXTINF:-1 ,דיסני ג'ויניור
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/114.m3u8
+
+#EXTINF:-1 ,דיסני
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/102.m3u8
+
+#EXTINF:-1 ,הופ ילדות ישראלית
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/123.m3u8
+
+#EXTINF:-1 ,הופ!
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/112.m3u8
+
+#EXTINF:-1 ,לוגי
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/304.m3u8
+
+#EXTINF:-1 ,ניק Jr
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/115.m3u8
+
+#EXTINF:-1 ,בייבי
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/111.m3u8
+
+#EXTINF:-1, ג'ויניור
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/117.m3u8
+
+#EXTINF:-1 ,AMC ישראל
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/113.m3u8
+
+
+#EXTINF:-1 ,סדרות ישראליות
+http://82.80.192.14:1935/plph_Linear3Repeat/_definst_/smil:Linear4.smil/playlist.m3u8
+
+#EXTINF:-1 ,סיטקום קשת
+http://82.80.192.14:1935/plph_Linear3Repeat/_definst_/smil:Linear5.smil/playlist.m3u8
+
+#EXTINF:-1 ,Hot 3
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/128.m3u8
+
+#EXTINF:-1 ,Hot Plus
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/138.m3u8
+
+#EXTINF:-1 ,Hot Zone
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/129.m3u8
+
+#EXTINF:-1 ,Hot Comedy Centeral
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/260.m3u8
+
+#EXTINF:-1 ,Hot Fun
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/122.m3u8
+
+#EXTINF:-1 ,Hot Gold
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/127.m3u8
+
+#EXTINF:-1 ,Hot Drama
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/131.m3u8
+
+#EXTINF:-1 ,Hot Action
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/124.m3u8
+
+#EXTINF:-1 ,Yes קולנוע ישראלי
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/106.m3u8
+
+#EXTINF:-1 ,Yes Oh
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/103.m3u8
+
+#EXTINF:-1 ,Yes קומדי
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/100.m3u8
+
+#EXTINF:-1 ,Yes דרמה
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/97.m3u8
+
+#EXTINF:-1 ,Yes אקשן
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/98.m3u8
+
+#EXTINF:-1 ,Yes דוקו
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/99.m3u8
+
+#EXTINF:-1 ,Yes1 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/92.m3u8
+
+#EXTINF:-1 ,Yes2 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/93.m3u8
+
+#EXTINF:-1 ,Yes3 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/94.m3u8
+
+#EXTINF:-1 ,Yes4 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/95.m3u8
+
+#EXTINF:-1 ,Yes5 HD
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/96.m3u8
+
+#EXTINF:-1 ,ערוץ המוזיקה - 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+
+#EXTINF:-1 ,ים תיכני - 25
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/110.m3u8
+
+#EXTINF:-1, MTV Hits
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/311.m3u8
+
+#EXTINF:-1,MTV Live
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/58.m3u8
+
+#EXTINF:-1,MTV ROCKS
+http://95.188.107.166:1234/udp/233.7.70.209:5000
+
+#EXTINF:-1 group-title="Music",MTV Dance 
+http://194.8.147.146:4022/udp/239.0.0.80:4000
+
+#EXTINF:-1,VH1
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/331.ts
+
+#EXTINF:-1,VH1 Classic
+http://iptv.klfree.cz:8024
+
+#EXTINF:-1,Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
+
+
+#EXTINF::-1,Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0, Vevo Music HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF::-1,Vevo ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:0, Vevo ROCK TV HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF::-1,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF::-1,Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+
+##### - סדרות 247   -  http://www.allinonestreams.com/   https://www.arconaitv.me/ - #####
+
+
+#EXTINF:-1,Adventure Time
+http://dev.330.co.il/iptv/shows247/AdventureTime.m3u8
+
+#EXTINF:-1,American Dad
+http://dev.330.co.il/iptv/shows247/AmericanDad.m3u8
+
+#EXTINF:-1,Family Guy
+http://dev.330.co.il/iptv/shows247/FamilyGuy.m3u8
+
+#EXTINF:-1,Bob's Burgers
+http://dev.330.co.il/iptv/shows247/BobsBurgers.m3u8
+
+#EXTINF:-1,Futurama
+http://dev.330.co.il/iptv/shows247/Futurama.m3u8
+
+#EXTINF:-1,King Of The Hill
+http://dev.330.co.il/iptv/shows247/KingOfTheHill.m3u8
+
+#EXTINF:-1,Invader Zim
+http://dev.330.co.il/iptv/shows247/InvaderZim.m3u8
+
+#EXTINF:-1,Rick And Morty
+http://dev.330.co.il/iptv/shows247/RickAndMorty.m3u8
+
+#EXTINF:-1,Regular Show
+http://dev.330.co.il/iptv/shows247/RegularShow.m3u8
+
+#EXTINF:-1,Seinfeld
+http://dev.330.co.il/iptv/shows247/Seinfeld.m3u8
+
+#EXTINF:-1,Southpartk
+http://dev.330.co.il/iptv/shows247/Southpartk.m3u8
+
+#EXTINF:-1,The Simpsons
+http://dev.330.co.il/iptv/shows247/Simpsons.m3u8
+
+#EXTINF:-1,The Office
+http://dev.330.co.il/iptv/shows247/TheOffice.m3u8
+
+#EXTINF:-1,Big Bang Theory
+http://dev.330.co.il/iptv/shows247/TheBigBangTheory.m3u8
+
+#EXTINF:-1,Ren And Stimpy
+http://dev.330.co.il/iptv/shows247/RenAndStimpy.m3u8
+
+#EXTINF:-1,The Fresh Prince Of Bel Air
+http://dev.330.co.il/iptv/shows247/FreshPrince.m3u8
+
+#EXTINF:-1,Scrubs
+http://dev.330.co.il/iptv/shows247/Scrubs.m3u8
+
+#EXTINF:-1,The 70's Show
+http://dev.330.co.il/iptv/shows247/the70s.m3u8
+
+#EXTINF:-1,Friends
+http://dev.330.co.il/iptv/shows247/Friends.m3u8
+
+
+
+
+#EXTINF:-1,גלגל"צ
+http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
+
+#EXTINF:-1,אקו 99 FM
+http://99.livecdn.biz/99fm_aac?1461659997996.aac
+
+
+
+
+#EXTINF:-1,-----ערוצים לחיבור איטי-------
+http://test.com
+
+#EXTINF:-1, דיסקברי 
+http://stream.tlvtv.com:1935/streamtv/_definst_/streams/discovery/discovery.stream/playlist.m3u8
+
+#EXTINF:-1, דיסני
+http://stream.tlvtv.com:1935/streamtv/_definst_/streams/disney/disney.stream/playlist.m3u8
+
+#EXTINF:-1,ערוץ 10
+http://stream.tlvtv.com:1935/streamtv/_definst_/streams/channel10/channel10.stream/playlist.m3u8
+
+#EXTINF:-1,ערוץ 11
+http://stream.tlvtv.com:1935/streamtv/_definst_/streams/channel11/channel11.stream/playlist.m3u8
+
+
+#EXTINF:-1 ,ספורט 5 לייב
+http://iptvhd.ru:8000/live/flussonic2016/A5p63Flussonic/88.m3u8
+
+#EXTINF:-1 ,ספורט 5 פלוס
+http://CDN12_eu.sababatv.com:1935/C17/smil:C17.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,ספורט 5 גולד
+http://CDN12_eu.sababatv.com:1935/C14/smil:C14.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
+
+#EXTINF:-1 ,אגו טוטאל
+http://CDN12_eu.sababatv.com:1935/C27/smil:C27.smil/playlist.m3u8?token=875281c9-7180-4dbb-8bf8-ebc17235800d
